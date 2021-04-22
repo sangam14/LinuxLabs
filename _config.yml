@@ -5,7 +5,7 @@ logo: ""
 search_tokenizer_separator: /[\s/]+/
 # Aux links for the upper right navigation
 aux_links:
-  "RustLabs on GitHub":
+  "LinuxLabs on GitHub":
     - "https://github.com/sangam14/LinuxLabs/"
     
 # Footer "Edit this page on GitHub" link text
