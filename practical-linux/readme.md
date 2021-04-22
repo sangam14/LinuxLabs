@@ -1,3 +1,12 @@
+---
+layout: default
+title: Linux Practical 
+nav_order: 2
+has_children: true
+has_toc: true
+permalink: 
+---
+
 1.   Switching Terminals
 2.   Fdisk 
 3.   Format 
